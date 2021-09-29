@@ -7,6 +7,7 @@ module.exports = {
       colors: {
         snk: "#E1E8FF"
       }
+
     },
   },
   variants: {
